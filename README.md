@@ -2,7 +2,7 @@
 
 Submitted by: Prem Kumar
 
-Wordle is an app that is an daily word puzzle game that challenges players to guess a four-seven letter word within six tries. In the game, players are prompted to guess a word by typing it into the provided boxes. After submitting a guess, the game gives feedback using color codes 
+Wordle is an app that is an daily word puzzle game that challenges players to guess a four-seven letter word within six tries. In the game, players are prompted to guess a word by typing it into the provided boxes. After submitting a guess, the game gives feedback using color codes. Players can trigger 4 different settings in settings tab.
 
 Time spent: 3 hours spent in total
 
